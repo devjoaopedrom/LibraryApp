@@ -8,11 +8,9 @@ internal class Program
     {
 
         Console.WriteLine("Hello! good to see you");
+        User.RegisterBegin();
         Menu.Show();
   
     }
-
+ 
 }
-
-
-
