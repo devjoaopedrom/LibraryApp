@@ -123,7 +123,7 @@ namespace Libraryapp
             }
             else
             {
-                Console.WriteLine("Sorry Invalid or Undefined Id");
+                Console.WriteLine("Invalid or inexist ID");
             }
             Console.WriteLine("Press any key to return to the menu");
             Console.ReadLine();
